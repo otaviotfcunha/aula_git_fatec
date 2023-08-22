@@ -1,5 +1,5 @@
 ## Aula de Git/GitHub
-- Aula do dia 21/0/2023
+- Aula do dia 21/08/2023
 - Professor Junior - Fatec Itapira
 
 ### Minhas redes sociais, conecte-se comigo:
